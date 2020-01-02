@@ -1,0 +1,49 @@
+/* General */
+.margin-5 {
+    margin-top: 5rem;
+}
+
+.margin-3 {
+    margin-top: 3rem;
+}
+
+.margin-2 {
+    margin-top: 2rem;
+}
+
+/* Header */
+header {
+    background-color: grey;
+}
+
+.header-bar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Alerts */
+.alert {
+    width: 50%;
+}
+
+.alert-header {
+    color: red;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.alert-body {
+    font-size: 14px;
+}
+
+
+/* Tables */
+.table {
+    margin-top: 1rem;
+    margin-right: 5px;
+    width: 75%;
+}
+
+.navbar-text {
+    color: whitesmoke;
+}

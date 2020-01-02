@@ -1,0 +1,20 @@
+#TODO:
+	- Pre-process data     [DONE]
+	- TF-IDF     [DONE]
+	- Get recommendations in form of dictionary     [DONE]
+	- OOP     [DONE]
+	- Make sure that there are no similar entries in the rec dict     [DONE]
+	- Implement autocomplete     [DONE]
+	- Flask     [DONE]
+	- Report     [DONE]
+
+
+Flask:
+	- Template     [DONE]
+	- Routes     [DONE]
+	- Improve the design     [DONE]
+	- Refine output*    [DONE]
+
+
+*Output only the most relevant functions and industries otherwise, each table will be HUGE.
+The full output should just be in the terminal.
